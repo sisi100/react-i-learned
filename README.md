@@ -1,6 +1,6 @@
 blog post:
-https://blog.i-tale.jp/2021/07/d6/
-https://blog.i-tale.jp/2021/07/d8/
+- https://blog.i-tale.jp/2021/07/d6/
+- https://blog.i-tale.jp/2021/07/d8/
 
 # Getting Started with Create React App
 
